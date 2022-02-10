@@ -13,4 +13,4 @@ Contact: qinshuang@gatech.edu
 
 Date: 02/09/2022
 
-Notes: THe main file in this repository is case_study_1node_1backup.m, which use the computation function in verification_1_node.m. The generated demands and schedules are provided in the folder "schedule data".
+Notes: The main file in this repository is case_study_1node_1backup.m, which use the computation function in verification_1_node.m. The generated demands and schedules are provided in the folder "schedule data".
